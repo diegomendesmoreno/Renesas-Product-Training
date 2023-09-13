@@ -1,0 +1,10 @@
+baseURL = '/'
+languageCode = 'pt-BR'
+title = 'Renesas Product training'
+theme = "etch"
+
+[params]
+  description = "Your site description"
+  copyright = "Copyright © 2023 Renesas Electronics"
+  dark = "auto"
+  highlight = true
