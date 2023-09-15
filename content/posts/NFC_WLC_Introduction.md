@@ -10,7 +10,7 @@ Vejam as novas soluções de [NFC (Near-Field Communication) e WLC (NFC Wireless
 
 ### IoT/PoS NFC Reader
 - Produtos disponíveis ([Brochure](https://www.renesas.com/br/en/document/ovr/nfc-reader-product-overview?r=25427301))
-  - [PTX105R](https://www.renesas.com/br/en/products/wireless-connectivity/nfc/ptx105r-mid-power-multi-protocol-nfc-forum-compliant-reader) - NFC Reader Non-payment and Non-Android
+  - [PTX105R](https://www.renesas.com/br/en/products/wireless-connectivity/nfc/ptx105r-mid-power-multi-protocol-nfc-forum-compliant-reader) - NFC Reader for IoT (Non-payment and Non-Android)
   - [PTX130R](https://www.renesas.com/br/en/products/wireless-connectivity/nfc/ptx130r-high-performance-high-efficiency-high-power-multi-protocol-nfc-forum-compliant-reader) - NFC Reader for Android Device
   - [PTX100R](https://www.renesas.com/br/en/products/wireless-connectivity/nfc/ptx100r-high-performance-high-power-multi-protocol-nfc-forum-reader) - NFC Reader for POS (Point of Sale)
 - Observações/Links:
