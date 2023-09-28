@@ -6,7 +6,7 @@ draft: false
 
 [Link de download da apresentação](../assets/material/RL78_G15_G16_Introduction.pdf)
 
-Veja as informações abaixo sobre as [novas famílias do MCUs RL78/G15, G16 e G22 (16-bit MCUs) packages menores](https://www.renesas.com/us/en/about/press-room/renesas-introduces-low-power-rl78g15-mcu-smallest-8-pin-package-option-available-within-rl78-family) da família [RL78](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus):
+Veja as informações abaixo sobre as [novas famílias do MCUs RL78/G15, G16 e G22 (16-bit MCUs) de packages menores](https://www.renesas.com/us/en/about/press-room/renesas-introduces-low-power-rl78g15-mcu-smallest-8-pin-package-option-available-within-rl78-family) da família [RL78](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus):
 
 - [RL78/G15](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus/rl78g15-compact-low-pin-count-microcontrollers-rich-peripheral-functions-general-purpose-applications) - Low Pin Count MCU with Rich Peripheral Functions
 - [RL78/G16](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus/rl78g16-compact-low-pin-count-microcontrollers-capacitive-touch-sensor-unit-ideal-home-appliances-and-high) - Low Pin Count MCU with Capacitive Touch Sensor Unit
