@@ -268,6 +268,12 @@ main#content section.footnotes {
     font-size: 0.9em;
 }
 
+main#content {
+    color: #1F3864;
+    font-size: 16px;    /* 14.5px for email size 11 */
+    font-family: Calibri, sans-serif;
+}
+
 footer#footer {
     font-size: 14px;
     font-size: 1.4rem;
