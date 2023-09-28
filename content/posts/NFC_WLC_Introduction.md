@@ -1,6 +1,6 @@
 ---
 title: "Soluções de NFC (Near-Field Communication) e WLC (NFC Wireless Charging)"
-date: "2023-07-01"
+date: "2023-08-01"
 draft: false
 ---
 
