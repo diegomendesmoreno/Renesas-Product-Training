@@ -4,7 +4,7 @@ date: "2022-07-01"
 draft: false
 ---
 
-[Link de download da apresentação](../assets/material/RZFive_RISC-V_Introduction.pdf)
+[Link de download da apresentação](../assets/material/RZ_MPU_Introduction.pdf)
 
 Veja as informações abaixo sobre a família [RZ 32 & 64-bit de microprocessadores (MPUs)](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rz-mpus) e as suas sub-famílias:
 
