@@ -21,3 +21,4 @@ Vale a pena também darem uma olhada nos recursos abaixo:
 - [Renesas MCU Guide App](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/renesas-mcu-guide-app) – Muito útil para selecionar o MCU baseado nas specs e preço
 - [RA Family Software & Tool Course](https://www.renesas.com/br/en/software-tool/ra-software-tool-course)
 - [RA and FSP Curriculum: Introductory Courses](https://en-support.renesas.com/knowledgeBase/20522329)
+- [FAQ – Frequently Asked Questions](https://en-support.renesas.com/knowledgeBase/category/31087)
