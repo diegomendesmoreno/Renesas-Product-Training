@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'pt-BR'
-title = 'Renesas Product training'
+title = 'Renesas Product Training'
 theme = "etch"
 
 [params]
