@@ -16,7 +16,7 @@ Seguindo a aquisição da Dialog Semi em 2021, a Renesas ganhou um novo portifó
 
     ![DA16600MOD Kit](../assets/img/da16600evz-pmod-board.png "DA16600MOD Kit")
 
-- Programa de longevidade (PLP) de 10 anos (módulo) e 15 anos (SoC). [Consulte aqui os prazos](https://www.renesas.com/us/en/product-longevity-program-plp-former-dialog-products) a partir da data de lançamento
+- Programa de longevidade (PLP) com produção garantida de 10 anos (módulo) e 15 anos (SoC) a partir da data de lançamento. [Consulte aqui as datas de cada produto](https://www.renesas.com/us/en/product-longevity-program-plp-former-dialog-products).
 - Documentos relevantes:
   - [UM-WI-003 DA16200 DA16600 Host Interface and AT Command User Manual](https://www.renesas.com/us/en/document/mas/um-wi-003-da16200-da16600-host-interface-and-command-user-manual?r=1599971)
   - [UM-WI-006 DA16200 DA16600 Hardware Design Guide](https://www.renesas.com/us/en/document/mah/um-wi-006-da16200-da16600-hardware-design-guide?r=1599971)

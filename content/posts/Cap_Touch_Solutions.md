@@ -13,7 +13,7 @@ draft: false
 - Vejam as ferramentas de desenvolvimento:
   - Temos vários [kits de desenvolvimento](https://www.renesas.com/us/en/application/key-technology/hmi/capacitive-touch-sensor-solutions) em cada uma dessas famílias para o cliente avaliar as features:
 
-![Kits de desenvolvimento com Touch sensing capacitivo](../assets/img/cap_touch_kits.png "Kits de desenvolvimento com Touch sensing capacitivo")
+    ![Kits de desenvolvimento com Touch sensing capacitivo](../assets/img/cap_touch_kits.png "Kits de desenvolvimento com Touch sensing capacitivo")
 
   - [QE for Capacitive Touch](https://www.renesas.com/eu/en/software-tool/qe-capacitive-touch-development-assistance-tool-capacitive-touch-sensors): ferramenta de assistência que faz o tuning da placa.
 

@@ -9,7 +9,7 @@ draft: false
 Seguindo a aquisição da Dialog Semi em 2021, a Renesas ganhou um novo portifólio de comunicação sem fio ([Wireless Connectivity](https://www.renesas.com/us/en/products/wireless-connectivity)). Veja abaixo, mais especificamente, as soluções de [Bluetooth Low Energy (BLE)](https://www.renesas.com/us/en/products/wireless-connectivity/bluetooth-low-energy):
 
 - [DA14531MOD](https://www.renesas.com/us/en/products/wireless-connectivity/bluetooth-low-energy/da14531mod-smartbond-tiny-bluetooth-low-energy-module) - Módulo Bluetooth® Low Energy
-  - DA14531MOD-00F0100 - módulo com PCB antena e **_certificação ANATEL_** (baixe os certificados na [página do produto](https://www.renesas.com/us/en/document/cer/smartbond-tiny-certification-brazil-canada?r=1601921)
+  - DA14531MOD-00F0100 - módulo com PCB antena e **_certificação ANATEL_** (baixe os certificados na [página do produto](https://www.renesas.com/us/en/document/cer/smartbond-tiny-certification-brazil-canada?r=1601921))
 
     ![DA14531MOD](../assets/img/da14531mod.png "DA14531MOD")
 
@@ -21,7 +21,7 @@ Seguindo a aquisição da Dialog Semi em 2021, a Renesas ganhou um novo portifó
 
   - [DA14531MOD-00DEVKT-P](https://www.renesas.com/us/en/products/wireless-connectivity/bluetooth-low-energy/da14531mod-00devkt-p-smartbond-tiny-da14531-bluetooth-low-energy-51-system-chip-module-development-kit-pro): Bluetooth® Low Energy Module Development Kit Pro
   - [DA14531-00FXDEVKT-P](https://www.renesas.com/us/en/products/wireless-connectivity/bluetooth-low-energy/da14531-00fxdevkt-p-smartbond-tiny-da14531-bluetooth-low-energy-51-system-chip-development-kit-pro): Bluetooth® Low Energy SoC Development Kit Pro
-- Programa de longevidade (PLP) de 10 anos (módulo) e 15 anos (SoC). [Consulte aqui os prazos](https://www.renesas.com/us/en/product-longevity-program-plp-former-dialog-products) a partir da data de lançamento
+- Programa de longevidade (PLP) com produção garantida de 10 anos (módulo) e 15 anos (SoC) a partir da data de lançamento. [Consulte aqui as datas de cada produto](https://www.renesas.com/us/en/product-longevity-program-plp-former-dialog-products).
 
 - Modos de operação:
   - Modem (outro MCU como host da aplicação): [CodeLess™ AT Commands](https://www.renesas.com/us/en/software-tool/smartbond-codeless-commands) - interface com um MCU host via UART
