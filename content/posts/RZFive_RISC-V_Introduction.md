@@ -16,6 +16,6 @@ Veja as informações abaixo sobre a nova família de microprocessadores (MPUs) 
   - [Getting Started com a RZ/Five SMARC](https://renesas.info/wiki/RZ-Five/RZ-Five_SMARC)
   - [RZ/Five CIP-Linux Board Support Package](https://www.renesas.com/us/en/software-tool/rzfive-board-support-package-v10-update1-510-cip)
 
-Vale a pena também darem uma olhada nos recursos abaixo:
+Vale a pena também dar uma olhada nos recursos abaixo:
 - [RZ Wiki page](https://renesas.info/wiki/Main_Page)
 - [FAQ – Frequently Asked Questions](https://en-support.renesas.com/knowledgeBase/category/31243)

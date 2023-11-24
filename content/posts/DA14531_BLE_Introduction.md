@@ -43,5 +43,5 @@ Seguindo a aquisição da Dialog Semi em 2021, a Renesas ganhou um novo portifó
     - SmartSnippets™ Toolbox
     - SmartBond™ Flash Programmer
 
-Vale a pena também darem uma olhada nos recursos abaixo:
+Vale a pena também dar uma olhada nos recursos abaixo:
 - [Renesas Quick-Connect IoT Platform](https://www.renesas.com/us/en/software-tool/quick-connect-iot-platform): fast prototyping by providing compatible hardware and software building blocks

@@ -30,5 +30,5 @@ Seguindo a aquisição da Dialog Semi em 2021, a Renesas ganhou um novo portifó
   - [UM-WI-011 DA16200 DA16600 Mass Production User Manual](https://www.renesas.com/us/en/document/mah/um-wi-011-da16200-da16600-mass-production-user-manual?r=1599971)
   - [UM-WI-056 DA16200 DA16600 FreeRTOS Getting Started Guide](https://www.renesas.com/us/en/document/qsg/um-wi-056-da16200-da16600-freertos-getting-started-guide?r=1599971)
 
-Vale a pena também darem uma olhada nos recursos abaixo:
+Vale a pena também dar uma olhada nos recursos abaixo:
 - [Renesas Quick-Connect IoT Platform](https://www.renesas.com/us/en/software-tool/quick-connect-iot-platform): fast prototyping by providing compatible hardware and software building blocks

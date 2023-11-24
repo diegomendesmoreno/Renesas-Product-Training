@@ -16,6 +16,6 @@ Veja as informações abaixo sobre a família [RZ 32 & 64-bit de microprocessado
 
 ![RZ MPU table](../assets/img/rz_table.jpg "RZ MPU table")
 
-Vale a pena também darem uma olhada nos recursos abaixo:
+Vale a pena também dar uma olhada nos recursos abaixo:
 - [RZ Wiki page](https://renesas.info/wiki/Main_Page)
 - [FAQ – Frequently Asked Questions](https://en-support.renesas.com/knowledgeBase/category/31243)

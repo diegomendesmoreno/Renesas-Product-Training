@@ -23,7 +23,7 @@ Veja a apresentação acima e os links abaixo sobre as features de segurança pa
   - [The Benefits of Using Arm® TrustZone® in Your Design](https://www.renesas.com/br/en/document/whp/benefits-using-arm-trustzone-your-design?language=en&r=469286)
   - [Secure Internet Communication for IoT Applications](https://www.renesas.com/br/en/document/whp/secure-internet-communication-iot-applications?language=en&r=469286)
 
-Vale a pena também darem uma olhada nos recursos abaixo:
+Vale a pena também dar uma olhada nos recursos abaixo:
 - [Renesas MCU Guide App](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/renesas-mcu-guide-app) – Muito útil para selecionar o MCU baseado nas specs e preço
 - [RA Family Software & Tool Course](https://www.renesas.com/br/en/software-tool/ra-software-tool-course)
 - [RA and FSP Curriculum: Introductory Courses](https://en-support.renesas.com/knowledgeBase/20522329)

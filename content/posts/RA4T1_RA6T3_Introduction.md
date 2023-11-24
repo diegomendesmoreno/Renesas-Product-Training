@@ -14,7 +14,7 @@ Veja as informações abaixo sobre as [novas famílias do MCUs Arm® Cortex®-M3
 
 ![Tabela dos MCUs da família RA](../assets/img/RA4T1_RA6T3_table.png "Tabela dos MCUs da família RA")
 
-Vale a pena também darem uma olhada nos recursos abaixo:
+Vale a pena também dar uma olhada nos recursos abaixo:
 - _[Motor and Inverter Control Solutions](https://www.renesas.com/eu/en/application/key-technology/motor-control-robotics/motor-control-solutions#related_boards__kits)_
 - _[AC Motor Control Algorithms](https://www.renesas.com/us/en/application/key-technology/motor-control-robotics/ac-motor-control-algorithms)_
 - _[Even Beginners Can Start Sensorless Vector Control Within One Day](https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx23t-rx24t-rssk)_ (detalhes e vídeos de como avaliar controle de motor com os kits)

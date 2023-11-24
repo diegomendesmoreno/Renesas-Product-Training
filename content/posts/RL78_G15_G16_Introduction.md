@@ -15,7 +15,7 @@ Veja as informações abaixo sobre as [novas famílias do MCUs RL78/G15, G16 e G
 
 ![Tabela dos MCUs da famílias RL78](../assets/img/RL78_G15_G16_table.png "Tabela dos MCUs da famílias RL78")
 
-Vale a pena também darem uma olhada nos recursos abaixo:
+Vale a pena também dar uma olhada nos recursos abaixo:
 - [Renesas MCU Guide App](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/renesas-mcu-guide-app) – Muito útil para selecionar o MCU baseado nas specs e preço
 - [RL78 Family Software & Tool Course](https://www.renesas.com/br/en/software-tool/rl78-software-tool-course)
 - [FAQ – Frequently Asked Questions](https://en-support.renesas.com/knowledgeBase/category/31025)
